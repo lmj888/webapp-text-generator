@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "my-plugin",
+  "description": "My first Dify plugin",
+  "api": {
+    "type": "openapi",
+    "url": "/openapi.yaml"
+  }
+}
